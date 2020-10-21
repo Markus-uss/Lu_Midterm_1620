@@ -28,9 +28,12 @@ The parts of the url consist of:
 
 ## Q6
 An HTTP header allows client to pass back additional information along with an HTTP request. Three examples of HTTP header fields are 
-    Cache: saves data for a specific period of time, and improves performance.
-    Base64 encoded: username and password combo to prevent confusion of text string.
-    Authorization: provides authetnication information for the HTTP authetnication.
+
+Cache: saves data for a specific period of time, and improves performance.
+
+Base64 encoded: username and password combo to prevent confusion of text string.
+
+Authorization: provides authetnication information for the HTTP authetnication.
 
 ## Q7
 The CSS box model wraps around every HTML element and can be maniuplated to reformat the positioning of the HTML elemnts. From inside to outside of the CSS box model, the different parts consist of Content, Padding, Border, and Margin.
