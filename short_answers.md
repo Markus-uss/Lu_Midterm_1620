@@ -10,7 +10,7 @@ BCIT
 Git is a control system that manages the source code's history whereas GitHub is a service that allows users to post to the Git repositories.
 
 ## Q2
-A branch in Git is a copy of the source code at a point in time and changes made to it aren't applied to the main branch until a merge has been done.
+A branch in Git is a copy of the source code at a point in time and changes made to it aren't applied to the main branch until a merge has been done. You can use branch to to test codes and check for bugs before merging with the main.
 
 ## Q3
 The HTTP status code you ge when a resource is not found is 404 NOT FOUND. This status code belongs to the category of client error. No the status code does not indicate if the representation is permanent as changes can be made before re-executing a HTTP request method.
